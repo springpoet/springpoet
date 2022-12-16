@@ -1,8 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=springpoet's_GitHub&fontColor=2596be&fontSize=51)
-### 🌈 김성근 깃허브 👋 
+### 🌈 김성근 깃허브  
 
- - 🌱 저는 `C#`, `C` 에 관심이 많습니다.
+ - 🌱 저는 `C#`, `C` 에 관심이 많습니다!!
 <!--- 🥅 2022 Goals : Build my own mainnet
 - ⚡ Fun fact: I love to swim and have `Life Guard` certification.
 !-->
