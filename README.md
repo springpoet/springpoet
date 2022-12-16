@@ -1,11 +1,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=springpoet's_GitHub&fontSize=51)
-### 🌈 Welcome to SOKURI_CODE 👋 
+### 🌈 김성근 깃허브 👋 
 
-- 🌱 I’m currently interested in `Go`, `Rust`
+<!-- - 🌱 I’m currently interested in `C#`, `C`
 - 🥅 2022 Goals : Build my own mainnet
 - ⚡ Fun fact: I love to swim and have `Life Guard` certification.
-
+!-->
 <div style="display: flex, height:180px">
 <a href="https://github.com/springpoet"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=springpoet&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
 <a href="https://github.com/springpoet"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=springpoet&layout=compact&theme=nord&hide_border=true" /></a> 
@@ -31,7 +31,7 @@
 ### Connect with me:
 
 [<img align="left" width="48px" src="https://img.icons8.com/sf-black-filled/64/null/github.png" />][GitHub]
-[<img align="left" width="48px" src=""https://img.icons8.com/fluency/48/null/kakaotalk.png" />][KakaoTalk]
+[<img align="left" width="48px" src="https://img.icons8.com/fluency/48/null/kakaotalk.png" />][KakaoTalk]
 [<img align="left" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
 [GitHub]: https://github.com/springpoet
