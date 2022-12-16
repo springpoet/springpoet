@@ -1,13 +1,13 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=springpoet's_GitHub&fontSize=51)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=springpoet's_GitHub&fontColor=2596be&fontSize=51)
 ### 🌈 김성근 깃허브 👋 
 
-<!-- - 🌱 I’m currently interested in `C#`, `C`
-- 🥅 2022 Goals : Build my own mainnet
+ - 🌱 저는 `C#`, `C` 에 관심이 많습니다.
+<!--- 🥅 2022 Goals : Build my own mainnet
 - ⚡ Fun fact: I love to swim and have `Life Guard` certification.
 !-->
 <div style="display: flex, height:180px">
-<a href="https://github.com/springpoet"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=springpoet&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+<a href="https://github.com/springpoet"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=springpoet&show_icons=true&theme=nord&hide_border=true" /></a>
 <a href="https://github.com/springpoet"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=springpoet&layout=compact&theme=nord&hide_border=true" /></a> 
 </div>
 <br />
