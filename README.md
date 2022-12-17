@@ -6,6 +6,7 @@
 <!--- 🥅 2022 Goals : Build my own mainnet
 - ⚡ Fun fact: I love to swim and have `Life Guard` certification.
 !-->
+
 <div style="display: flex, height:180px">
 <a href="https://github.com/springpoet"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=springpoet&show_icons=true&theme=nord&hide_border=true" /></a>
 <a href="https://github.com/springpoet"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=springpoet&layout=compact&theme=nord&hide_border=true" /></a> 
@@ -14,7 +15,7 @@
 <br />
 
 <div>
-### 🛠 Languages and Tools
+ - 🛠 Languages and Tools
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/></t>
